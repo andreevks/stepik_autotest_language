@@ -14,5 +14,5 @@ def test_user_should_see_button_add_basket(browser):
     # assert btn_title == 'Ajouter au panier', \
     #     f'Надпись не на том языке: {btn_title}'
 
-# команда для запкска
+# команда для запуска
 # pytest --language=es test_items.py
